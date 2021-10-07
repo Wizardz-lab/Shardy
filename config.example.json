@@ -1,0 +1,11 @@
+{
+    "token": "bot token",
+    "ownerID": [
+        "discord ids",
+        "id 2"
+    ],
+    "prefix": "-",
+    "coc_token": [
+        "clash of clans api token"
+    ]
+}
